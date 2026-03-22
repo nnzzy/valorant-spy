@@ -324,7 +324,7 @@ export default function App() {
   const H = () => (
     <div style={{ textAlign:"center", marginBottom:32, paddingTop:20 }}>
       <div style={{ fontSize:10, letterSpacing:6, color:"#ff4655", fontWeight:700, marginBottom:6, fontFamily:"'Inter',sans-serif" }}>VALORANT</div>
-      <h1 style={{ fontFamily:"'Bebas Neue',sans-serif", fontSize:52, letterSpacing:5, lineHeight:1, color:"#fff" }} className="glow">SPY HUNT</h1>
+      <h1 style={{ fontFamily:"'Bebas Neue',sans-serif", fontSize:52, letterSpacing:5, lineHeight:1, color:"#fff" }} className="glow">SPY FALL</h1>
       <div style={{ fontSize:11, letterSpacing:3, color:"rgba(255,255,255,.2)", marginTop:4 }}>WHO IS THE IMPOSTOR? BY ไอ่ดุ่ย</div>
     </div>
   );
